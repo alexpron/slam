@@ -7,11 +7,14 @@ people, which  originated from the MeCA research team but grew further.
 An up-to-date list of contributors can be seen in on Github
 
 # Funding 
+Slam is a community driven project, however institutional grants help to 
+assure its sustainability.
+
 + Mention Guillaume ANR ?
 + Mention researchers funds from Meca that made significant contributions to Slam ?
 
 # Citing Slam
-If you are using slam for your work 
+If you are using slam for your work please consider citing it as follows:
 ```bibtex
 @software{slam,
 author = {{Guillaume Auzias et al.}},
